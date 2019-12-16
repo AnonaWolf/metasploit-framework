@@ -2,7 +2,7 @@ Active Metasploit 5 development will sometimes push aggressive changes.
 Integrations with 3rd-party tools, as well as general usage, may change quickly
 from day to day. Some of the steps for dealing with major changes will be
 documented here. We will continue to maintain the Metasploit 4.x branch until
-Metasploit 5.0 is released.
+Metasploit 5.0 is released. 
 
 **2018/01/17 - [internal] module cache reworked to not store metadata in PostgreSQL**
 
