@@ -1,4 +1,4 @@
-# Hello, World!
+# Hello, World! 
 
 Thanks for your interest in making Metasploit -- and therefore, the
 world -- a better place!  Before you get started, review our
